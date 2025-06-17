@@ -14,3 +14,4 @@ Make sure you have Rust installed. Then simply run:
 
 ```bash
 cargo run
+
